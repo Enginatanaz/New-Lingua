@@ -1,0 +1,6 @@
+{
+  "name": "Lingua14 - İngilizce Öğrenme Platformu",
+  "description": "Lingua14 modern İngilizce öğrenme platformu: 488 derslik A1-C2 CEFR müfredatı, doğal öğretmen seslendirmesi, interaktif alıştırmalar, cümle kurucu ve akıllı aralıklı tekrar (SRS) sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

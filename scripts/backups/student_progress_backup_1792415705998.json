@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-10-19T13:15:05.997Z",
+  "targetUser": "Aktif Öğrenci (Öğrenci 1)",
+  "progress": {
+    "completedLessonIds": [],
+    "totalXp": 180,
+    "streakDays": 4,
+    "lastActiveLessonId": 1
+  },
+  "mistakeBank": [],
+  "wordMemory": [],
+  "notes": {},
+  "curriculumIntegrity": {
+    "totalLessons": 488,
+    "cefrDistribution": {
+      "A1": 80,
+      "A2": 90,
+      "B1": 100,
+      "B2": 100,
+      "C1": 80,
+      "C2": 38
+    }
+  }
+}
